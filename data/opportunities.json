@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Can someone help tune up my bike?",
+    "description": "The gears have started slipping ahead of my commute. Happy to bring it by and lend a hand too.",
+    "category": "Repairs",
+    "neighborhood": "Maplewood North",
+    "contact": "maya@example.com",
+    "kind": "Ask",
+    "id": "490c10b7-4eeb-4455-ad9d-68f4d317f7dc",
+    "createdAt": "2026-10-09T04:43:46.325Z"
+  },
+  {
+    "title": "Fresh herbs for your kitchen",
+    "description": "My garden is overflowing with basil and mint. Take a bunch, and I can share a few easy recipes.",
+    "category": "Garden",
+    "neighborhood": "Oak Street",
+    "contact": "jo@example.com",
+    "kind": "Offer",
+    "id": "63053fd5-89e0-4179-b470-5fcfddfedd5e",
+    "createdAt": "2026-10-09T03:43:46.325Z"
+  },
+  {
+    "title": "Practice conversational Spanish",
+    "description": "Looking for a friendly weekly practice buddy. I can help with beginner guitar in return.",
+    "category": "Learning",
+    "neighborhood": "Maplewood South",
+    "contact": "alex@example.com",
+    "kind": "Ask",
+    "id": "2146f2f8-cd3f-40fd-b202-ef0e171e7173",
+    "createdAt": "2026-10-09T02:43:46.325Z"
+  },
+  {
+    "title": "Extra seat to the farmers market",
+    "description": "Driving over Saturday morning and have room for one more. Let’s split the parking.",
+    "category": "Rides",
+    "neighborhood": "Cedar Court",
+    "contact": "sam@example.com",
+    "kind": "Offer",
+    "id": "ba4685c0-918b-401b-8684-55c3a86dbd18",
+    "createdAt": "2026-10-09T01:43:46.325Z"
+  },
+  {
+    "title": "Soup for a busy week",
+    "description": "I made a big pot of lentil soup. I have two extra portions for anyone nearby who could use dinner.",
+    "category": "Food",
+    "neighborhood": "Maplewood North",
+    "contact": "lee@example.com",
+    "kind": "Offer",
+    "id": "9db67698-c4bf-4421-aee5-b189d30c94b1",
+    "createdAt": "2026-10-09T00:43:46.325Z"
+  },
+  {
+    "title": "Borrow a drill for the afternoon?",
+    "description": "Putting up a shelf and only need a drill for an hour. I can return it this evening.",
+    "category": "Repairs",
+    "neighborhood": "Pine Lane",
+    "contact": "nia@example.com",
+    "kind": "Ask",
+    "id": "319afde0-a0af-4f6b-9bc1-d6da286605e7",
+    "createdAt": "2026-10-08T23:43:46.325Z"
+  }
+]
