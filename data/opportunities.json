@@ -1,5 +1,15 @@
 [
   {
+    "title": "basic  computer skill",
+    "description": "I will teach in basic to advance computer",
+    "category": "Learning",
+    "neighborhood": "Maplewood",
+    "contact": "sumayya@gmail.com",
+    "kind": "Offer",
+    "id": "76f7b419-7596-4dca-8ae1-0ebcad02fb5c",
+    "createdAt": "2026-10-12T08:58:17.536Z"
+  },
+  {
     "title": "Can someone help tune up my bike?",
     "description": "The gears have started slipping ahead of my commute. Happy to bring it by and lend a hand too.",
     "category": "Repairs",
